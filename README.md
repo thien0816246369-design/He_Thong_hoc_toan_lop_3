@@ -1,4 +1,4 @@
-# Hệ Thống hoc toan
+# Hệ Thống học toán
 
 Mục tiêu: Xây dựng hệ thống trắc nghiệm online cho các trường THPT THCS, thay thế cách thức làm bài tập và kiểm tra truyền thống
 
