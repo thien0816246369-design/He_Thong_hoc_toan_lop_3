@@ -1,13 +1,5 @@
 <?php
 
-/**
- * HỆ THỐNG TRẮC NGHIỆM ONLINE
- * Index (Route)
- * @author: Nong Van Du (Dzu)
- * Mail: dzu6996@gmail.com
- * @link https://github.com/meesudzu/trac-nghiem-online
- */
-
 require_once 'config/config.php';
 date_default_timezone_set(Config::TIMEZONE);
 session_start();
