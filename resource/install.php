@@ -1,11 +1,11 @@
 <?php
 
 /**
- * HỆ THỐNG TRẮC NGHIỆM ONLINE
+ * HỆ THỐNG học toán
  * Install Wizard
- * @author: Nong Van Du (Dzu)
- * Mail: dzu6996@gmail.com
- * @link https://github.com/meesudzu/trac-nghiem-online
+ * @author: Nguyen Duc Thien
+ * Mail: thien0816246369@gmail.com
+ * @link https://github.com/thien0816246369-design/He_Thong_hoc_toan_lop_3
  */
 
 error_reporting(0);
@@ -146,7 +146,7 @@ class install
 
     function step_2()
     {
-        echo "<span class='pass'>Cài đặt Hệ Thống Trắc Nghiệm Online thành công.</span><br />";
+        echo "<span class='pass'>Cài đặt Hệ Thống hoc toan thành công.</span><br />";
         echo "File install.php sẽ bị xóa sau quá trình cài đặt để đảm bảo vấn đề bảo mật.<br />";
         echo "Tài khoản mặc định: <b>admin</b><br />";
         echo "Mật khẩu: <b>123456</b> <br />";
