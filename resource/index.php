@@ -1,5 +1,11 @@
 <?php
-
+/**
+ * HỆ THỐNG học toán
+ * Install Wizard
+ * @author: Nguyen Duc Thien
+ * Mail: thien0816246369@gmail.com
+ * @link https://github.com/thien0816246369-design/He_Thong_hoc_toan_lop_3
+ */
 require_once 'config/config.php';
 date_default_timezone_set(Config::TIMEZONE);
 session_start();
